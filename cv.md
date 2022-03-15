@@ -1,11 +1,13 @@
 # Ilya Pugachev
 ![me](https://sun9-22.userapi.com/impg/EuFxmrnOazp6iULvEV322CaIWBk4CCxJmZDa0A/fAoT9-bDtU0.jpg?size=443x444&quality=95&sign=8ed3dc7d23b399ad5dbf524655e69189&type=album)
+
 # Contacts
 Email: pi1691a@gmail.com
 
 Telegram: https://t.me/Ilya_Pugachev
 
 Discord: P1691#9771
+
 # Summary
 I aspire to work as web developer, have commercial experience in developing website interfaces and components. I am constantly learning and working on pet projects.
 
@@ -62,6 +64,7 @@ export function calculateWinner(squares) {
 ### [Toxin](https://github.com/IPugachev/study-project-toxin) ![timer](https://sun9-64.userapi.com/impg/Kbr_flDIhTXEbLB2tQRGo2bXXxsWP2y_LzLFrg/KleiWZpCWKI.jpg?size=1280x654&quality=95&sign=621445554423121d6d94028525e813ff&type=album)
 
 ### [Timer](https://github.com/IPugachev/timer) ![toxin](https://sun9-54.userapi.com/impg/JpQqxg_ACRqGFoliYIteJyNDqaBw50puGnfmbg/NiO6YGyd8Ms.jpg?size=1280x646&quality=95&sign=d3bbc170d86fcf065d846fb54a274f7c&type=album)
+
 # Education
 Irkutsk State University
 * Applied computer science - third-year student
