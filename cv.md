@@ -1,6 +1,6 @@
-#Ilya Pugachev
+# Ilya Pugachev
 ********* 
-#Contacts
+# Contacts
 email: pi1691a@gmail.com
 telegram: https://t.me/Ilya_Pugachev
 discord: P1691#9771
@@ -8,13 +8,13 @@ discord: P1691#9771
 I aspire to become a web developer, have commercial experience in developing website interfaces and components. I am constantly learning and working on pet projects.
 
 
-Personal qualities:
+#### Personal qualities:
 * Purposeful.
 * Responsible.
 * Communicative.
 * Initiative.
 ********* 
-#Skills:
+# Skills:
 * HTML
 * CSS
 * SCSS
@@ -26,7 +26,7 @@ Personal qualities:
 * StyledComponents
 * Webpack
 ********* 
-#Code examples:
+# Code examples:
 ```
 function reverseWords(str) { 
   let arr = str.split(' ')
@@ -59,13 +59,15 @@ export function calculateWinner(squares) {
 }
 ```
 ********* 
-#My projects
+# My projects
 [Toxin:](https://github.com/IPugachev/study-project-toxin)
+
+
 [Timer:](https://github.com/IPugachev/timer)
 ********* 
-#Education
+# Education
 * Irkutsk State University
 * * Applied computer science - third-year student
 ********* 
-#English skills
+# English skills
 My current level - A2
