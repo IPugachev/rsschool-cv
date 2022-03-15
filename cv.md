@@ -9,13 +9,11 @@ Discord: P1691#9771
 # Summary
 I aspire to work as web developer, have commercial experience in developing website interfaces and components. I am constantly learning and working on pet projects.
 
-
 #### Personal qualities:
 * Purposeful.
 * Responsible.
 * Communicative.
 * Initiative.
-
 # Skills:
 * HTML
 * CSS
