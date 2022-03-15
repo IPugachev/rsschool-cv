@@ -1,11 +1,13 @@
 # Ilya Pugachev
-********* 
+
 # Contacts
-email: pi1691a@gmail.com
-telegram: https://t.me/Ilya_Pugachev
-discord: P1691#9771
-********* 
-I aspire to become a web developer, have commercial experience in developing website interfaces and components. I am constantly learning and working on pet projects.
+Email: pi1691a@gmail.com
+
+Telegram: https://t.me/Ilya_Pugachev
+
+Discord: P1691#9771
+# Summary
+I aspire to work as web developer, have commercial experience in developing website interfaces and components. I am constantly learning and working on pet projects.
 
 
 #### Personal qualities:
@@ -13,7 +15,6 @@ I aspire to become a web developer, have commercial experience in developing web
 * Responsible.
 * Communicative.
 * Initiative.
-********* 
 # Skills:
 * HTML
 * CSS
@@ -25,7 +26,6 @@ I aspire to become a web developer, have commercial experience in developing web
 * Redux
 * StyledComponents
 * Webpack
-********* 
 # Code examples:
 ```
 function reverseWords(str) { 
@@ -58,16 +58,12 @@ export function calculateWinner(squares) {
   return null
 }
 ```
-********* 
 # My projects
-[Toxin:](https://github.com/IPugachev/study-project-toxin)
+### [Toxin](https://github.com/IPugachev/study-project-toxin) ![timer](https://sun9-64.userapi.com/impg/Kbr_flDIhTXEbLB2tQRGo2bXXxsWP2y_LzLFrg/KleiWZpCWKI.jpg?size=1280x654&quality=95&sign=621445554423121d6d94028525e813ff&type=album)
 
-
-[Timer:](https://github.com/IPugachev/timer)
-********* 
+### [Timer](https://github.com/IPugachev/timer) ![toxin](https://sun9-54.userapi.com/impg/JpQqxg_ACRqGFoliYIteJyNDqaBw50puGnfmbg/NiO6YGyd8Ms.jpg?size=1280x646&quality=95&sign=d3bbc170d86fcf065d846fb54a274f7c&type=album)
 # Education
-* Irkutsk State University
-* * Applied computer science - third-year student
-********* 
+Irkutsk State University
+* Applied computer science - third-year student
 # English skills
-My current level - A2
+My current level - **A2**
