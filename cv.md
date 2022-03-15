@@ -15,6 +15,7 @@ I aspire to work as web developer, have commercial experience in developing webs
 * Responsible.
 * Communicative.
 * Initiative.
+
 # Skills:
 * HTML
 * CSS
@@ -26,6 +27,7 @@ I aspire to work as web developer, have commercial experience in developing webs
 * Redux
 * StyledComponents
 * Webpack
+
 # Code examples:
 ```
 function reverseWords(str) { 
@@ -65,5 +67,6 @@ export function calculateWinner(squares) {
 # Education
 Irkutsk State University
 * Applied computer science - third-year student
+
 # English skills
 My current level - **A2**
