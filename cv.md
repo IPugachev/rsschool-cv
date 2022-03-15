@@ -12,21 +12,22 @@ Discord: P1691#9771
 I aspire to work as web developer, have commercial experience in developing website interfaces and components. I am constantly learning and working on pet projects.
 
 #### Personal qualities:
-* Purposeful.
-* Responsible.
-* Communicative.
-* Initiative.
+- Purposeful.
+- Responsible.
+- Communicative.
+- Initiative.
+
 # Skills:
-* HTML
-* CSS
-* SCSS
-* JavaScript
-* BEM
-* Git
-* React
-* Redux
-* StyledComponents
-* Webpack
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- BEM
+- Git
+- React
+- Redux
+- StyledComponents
+- Webpack
 
 # Code examples:
 ```
@@ -67,7 +68,7 @@ export function calculateWinner(squares) {
 
 # Education
 Irkutsk State University
-* Applied computer science - third-year student
+- Applied computer science - third-year student
 
 # English skills
 My current level - **A2**
